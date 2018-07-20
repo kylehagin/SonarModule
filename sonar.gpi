@@ -1,0 +1,40 @@
+Photoplotter Info File: C:/Program Files/EAGLE-4.16/projects/sonar/sonar.gpi
+
+ Date              :  8/04/2006 10:28:35a
+ Plotfile          : C:/Program Files/EAGLE-4.16/projects/sonar/sonar.sts
+ Apertures         : generated: 
+ Device            : Gerber photoplotter with RS-274-X aperture generation
+
+Parameter settings:
+
+ Emulate Apertures : no
+ Emulate Thermal   : no
+ Emulate Annulus   : no
+ Tolerance Draw  + :  0.00 %
+ Tolerance Draw  - :  0.00 %
+ Tolerance Flash + :  0.00 %
+ Tolerance Flash - :  0.00 %
+ Rotate            : no
+ Mirror            : no
+ Optimize          : yes
+ Auto fit          : yes
+ OffsetX           : 0inch
+ OffsetY           : 0inch
+
+Plotfile Info:
+
+ Coordinate Format : 2.4
+ Coordinate Units  : Inch
+ Data Mode         : Absolute
+ Zero Suppression  : None
+ End Of Block      : *
+
+Apertures used:
+
+ Code     Shape     Size                  used
+
+ D10      oval      0.0600inch x 0.1120inch    18
+ D11      octagon   0.0860inch               4
+ D12      oval      0.0680inch x 0.1280inch    13
+ D13      round     0.0480inch              50
+

@@ -1,0 +1,24 @@
+EAGLE Version 4.16 Copyright (c) 1988-2005 CadSoft
+
+Electrical Rule Check for C:/Program Files/EAGLE-4.16/projects/sonar/sonar.sch at  8/22/2006 09:58:11p
+
+WARNING: Sheet 1/1: unconnected Pin: U$7 -
+WARNING: Only 1 Pin on net NEG10V
+WARNING: Only 1 Pin on net RA6
+WARNING: Only 1 Pin on net RB3
+WARNING: Only 1 Pin on net RB7
+WARNING: Only 1 Pin on net T2OUT
+WARNING: Sheet 1/1, Net N$6: missing Junction at (3.1 1.4)
+WARNING: Sheet 1/1, Net N$8: missing Junction at (3.1 -0.4)
+WARNING: Sheet 1/1, Net N$10: missing Junction at (2.3 -0.4)
+WARNING: Sheet 1/1, Net N$16: missing Junction at (3.3 -2.3)
+WARNING: Sheet 1/1, Net N$18: missing Junction at (2.7 -4)
+WARNING: Sheet 1/1, Net N$18: missing Junction at (2.7 -3.7)
+WARNING: Sheet 1/1, Net NEG10: missing Junction at (0.5 1.6)
+WARNING: Sheet 1/1, Net ECHOIN: missing Junction at (5.1 -1.7)
+WARNING: Sheet 1/1, Net T2OUT: wire overlaps pin at (8.35 -0.6)
+
+Board and schematic are consistent
+
+    0 errors
+   15 warnings
